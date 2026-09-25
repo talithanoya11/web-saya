@@ -1,0 +1,12 @@
+body {background-color: #E2B4BD;}
+h1 { text-align: center;}
+p {text-align: center;}
+h1 {color: aliceblue;}
+img {clip-path: circle(40%);}
+table {border: black; }
+div {padding: min(5em, 8%);
+    width: 800px;
+    background-color: aliceblue;
+    box-shadow: 0 3px 10px;
+    border: 1em;
+    }
